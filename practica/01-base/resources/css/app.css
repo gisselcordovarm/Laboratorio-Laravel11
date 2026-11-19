@@ -1,0 +1,156 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    :root {
+        color-scheme: light;
+    }
+
+    html {
+        scroll-behavior: smooth;
+    }
+
+    body {
+        @apply bg-paper font-sans text-ink antialiased;
+        background-image:
+            radial-gradient(1200px 600px at 12% -10%, rgba(255, 253, 248, 0.95), transparent 60%),
+            radial-gradient(900px 500px at 100% 0%, rgba(34, 80, 63, 0.06), transparent 55%),
+            linear-gradient(180deg, rgba(255, 253, 248, 0.4), transparent 30%);
+        background-attachment: fixed;
+    }
+
+    ::selection {
+        background: rgba(34, 80, 63, 0.16);
+    }
+
+    :focus-visible {
+        @apply outline-none ring-4 ring-forest/15 ring-offset-2 ring-offset-paper;
+    }
+}
+
+@layer components {
+    .shell {
+        @apply mx-auto w-full max-w-6xl px-5 sm:px-8;
+    }
+
+    .eyebrow {
+        @apply text-[11px] font-semibold uppercase tracking-[0.24em] text-muted;
+    }
+
+    .card {
+        @apply rounded-4xl border border-line bg-card shadow-card;
+    }
+
+    .hairline {
+        @apply border-t border-line/80;
+    }
+
+    .field-label {
+        @apply mb-2 flex items-baseline justify-between gap-3 text-[11px] font-semibold uppercase tracking-[0.16em] text-ink/70;
+    }
+
+    .input {
+        @apply w-full rounded-xl border border-line bg-white/80 px-4 py-3 text-[15px] text-ink shadow-[inset_0_1px_0_rgba(255,255,255,0.6)] outline-none transition duration-200 placeholder:text-muted/55 focus:border-forest focus:bg-white focus:ring-4 focus:ring-forest/10;
+    }
+
+    .input-invalid {
+        @apply border-brick/60 bg-brick/[0.03] focus:border-brick focus:ring-brick/10;
+    }
+
+    .error-text {
+        @apply mt-2 flex items-start gap-1.5 text-[13px] leading-snug text-brick;
+    }
+
+    .hint {
+        @apply mt-2 text-[12px] leading-relaxed text-muted;
+    }
+
+    .btn-primary {
+        @apply inline-flex w-full items-center justify-center gap-2.5 rounded-full bg-forest px-6 py-3.5 text-[14px] font-semibold tracking-wide text-paper shadow-lift transition duration-200 hover:bg-forest-deep hover:shadow-card active:translate-y-px disabled:cursor-not-allowed disabled:opacity-60;
+    }
+
+    .btn-ghost {
+        @apply inline-flex items-center gap-2 rounded-full border border-line bg-white/60 px-4 py-2 text-[12px] font-semibold text-ink/70 transition hover:border-forest/30 hover:text-forest;
+    }
+
+    .chip {
+        @apply inline-flex items-center gap-1.5 rounded-full border border-line bg-white/60 px-3 py-1.5 text-[11px] font-medium text-ink/70;
+    }
+
+    .step {
+        @apply flex items-center gap-3 rounded-2xl border border-transparent px-3 py-2 text-[13px] text-muted transition;
+    }
+
+    .step-dot {
+        @apply grid h-6 w-6 shrink-0 place-items-center rounded-full border border-line bg-white/70 font-mono text-[10px] text-muted;
+    }
+
+    .step-active {
+        @apply border-forest/15 bg-forest/[0.045] text-forest;
+    }
+
+    .step-active .step-dot {
+        @apply border-forest/25 bg-forest text-paper;
+    }
+
+    .protocol-card {
+        @apply rounded-2xl border border-line bg-white/50 p-5 transition duration-200 hover:border-forest/25 hover:bg-white/80;
+    }
+
+    .code-badge {
+        @apply rounded-full bg-forest/[0.08] px-2.5 py-1 font-mono text-[10px] font-semibold text-forest;
+    }
+
+    .file-drop {
+        @apply relative rounded-2xl border border-dashed border-line bg-white/60 p-5 transition duration-200;
+    }
+
+    .file-drop.is-dragging {
+        @apply border-forest/50 bg-forest/[0.05] ring-4 ring-forest/10;
+    }
+
+    .file-drop.is-invalid {
+        @apply border-brick/60 bg-brick/[0.03];
+    }
+
+    .file-drop.has-file {
+        @apply border-solid border-forest/25 bg-forest/[0.035];
+    }
+
+    .prose-lab p {
+        @apply text-[15px] leading-relaxed text-muted;
+    }
+}
+
+@layer utilities {
+    .text-balance {
+        text-wrap: balance;
+    }
+
+    .fade-up {
+        animation: fade-up 700ms cubic-bezier(0.16, 1, 0.3, 1) both;
+    }
+
+    .fade-up-delay {
+        animation: fade-up 700ms cubic-bezier(0.16, 1, 0.3, 1) 120ms both;
+    }
+
+    @keyframes fade-up {
+        from {
+            opacity: 0;
+            transform: translateY(14px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+        .fade-up,
+        .fade-up-delay {
+            animation: none;
+        }
+    }
+}

@@ -1,0 +1,119 @@
+[Wed Nov 18 22:19:56 2026] PHP 8.3.36 Development Server (http://127.0.0.1:8000) started
+[Wed Nov 18 22:20:02 2026] 127.0.0.1:47975 Accepted
+[Wed Nov 18 22:20:05 2026] 127.0.0.1:47975 Closing
+[Wed Nov 18 22:20:05 2026] 127.0.0.1:12317 Accepted
+[Wed Nov 18 22:20:07 2026] 127.0.0.1:12317 Closing
+[Wed Nov 18 22:20:07 2026] 127.0.0.1:51734 Accepted
+[Wed Nov 18 22:20:07 2026] 127.0.0.1:51734 [200]: GET /build/assets/app-Dt1P3KgD.css
+[Wed Nov 18 22:20:07 2026] 127.0.0.1:12367 Accepted
+[Wed Nov 18 22:20:07 2026] 127.0.0.1:12367 [200]: GET /build/assets/app-DXkTmbzN.js
+[Wed Nov 18 22:20:07 2026] 127.0.0.1:51734 Closing
+[Wed Nov 18 22:20:07 2026] 127.0.0.1:12367 Closing
+[Wed Nov 18 22:20:08 2026] 127.0.0.1:1812 Accepted
+[Wed Nov 18 22:20:08 2026] 127.0.0.1:1812 [200]: GET /favicon.ico
+[Wed Nov 18 22:20:08 2026] 127.0.0.1:1812 Closing
+[Wed Nov 18 22:20:11 2026] 127.0.0.1:51200 Accepted
+[Wed Nov 18 22:20:11 2026] 127.0.0.1:51200 Closing
+[Wed Nov 18 22:20:11 2026] 127.0.0.1:28119 Accepted
+[Wed Nov 18 22:20:12 2026] 127.0.0.1:28119 [200]: GET /build/assets/app-Dt1P3KgD.css
+[Wed Nov 18 22:20:12 2026] 127.0.0.1:42937 Accepted
+[Wed Nov 18 22:20:12 2026] 127.0.0.1:42937 [200]: GET /build/assets/app-DXkTmbzN.js
+[Wed Nov 18 22:20:12 2026] 127.0.0.1:28119 Closing
+[Wed Nov 18 22:20:12 2026] 127.0.0.1:42937 Closing
+[Wed Nov 18 22:20:12 2026] 127.0.0.1:24832 Accepted
+[Wed Nov 18 22:20:12 2026] 127.0.0.1:24832 [200]: GET /favicon.ico
+[Wed Nov 18 22:20:12 2026] 127.0.0.1:24832 Closing
+[Wed Nov 18 22:20:13 2026] 127.0.0.1:2571 Accepted
+[Wed Nov 18 22:20:13 2026] 127.0.0.1:2571 Closing
+[Wed Nov 18 22:20:13 2026] 127.0.0.1:2242 Accepted
+[Wed Nov 18 22:20:13 2026] 127.0.0.1:2242 [200]: GET /build/assets/app-Dt1P3KgD.css
+[Wed Nov 18 22:20:13 2026] 127.0.0.1:2242 Closing
+[Wed Nov 18 22:20:13 2026] 127.0.0.1:56599 Accepted
+[Wed Nov 18 22:20:13 2026] 127.0.0.1:56599 [200]: GET /build/assets/app-DXkTmbzN.js
+[Wed Nov 18 22:20:13 2026] 127.0.0.1:56599 Closing
+[Wed Nov 18 22:20:13 2026] 127.0.0.1:54641 Accepted
+[Wed Nov 18 22:20:13 2026] 127.0.0.1:54641 [200]: GET /favicon.ico
+[Wed Nov 18 22:20:13 2026] 127.0.0.1:54641 Closing
+[Wed Nov 18 22:20:15 2026] 127.0.0.1:26116 Accepted
+[Wed Nov 18 22:20:15 2026] 127.0.0.1:26116 Closing
+[Wed Nov 18 22:20:15 2026] 127.0.0.1:45773 Accepted
+[Wed Nov 18 22:20:15 2026] 127.0.0.1:45773 [200]: GET /build/assets/app-Dt1P3KgD.css
+[Wed Nov 18 22:20:15 2026] 127.0.0.1:45773 Closing
+[Wed Nov 18 22:20:15 2026] 127.0.0.1:64986 Accepted
+[Wed Nov 18 22:20:15 2026] 127.0.0.1:64986 [200]: GET /build/assets/app-DXkTmbzN.js
+[Wed Nov 18 22:20:15 2026] 127.0.0.1:64986 Closing
+[Wed Nov 18 22:20:15 2026] 127.0.0.1:57505 Accepted
+[Wed Nov 18 22:20:15 2026] 127.0.0.1:57505 [200]: GET /favicon.ico
+[Wed Nov 18 22:20:15 2026] 127.0.0.1:57505 Closing
+[Wed Nov 18 22:20:17 2026] 127.0.0.1:5165 Accepted
+[Wed Nov 18 22:20:17 2026] 127.0.0.1:5165 [200]: GET /favicon.ico
+[Wed Nov 18 22:20:17 2026] 127.0.0.1:5165 Closing
+[Wed Nov 18 22:20:20 2026] 127.0.0.1:5168 Accepted
+[Wed Nov 18 22:20:21 2026] 127.0.0.1:5168 Closing
+[Wed Nov 18 22:20:51 2026] 127.0.0.1:50996 Accepted
+[Wed Nov 18 22:20:51 2026] 127.0.0.1:50996 Closing
+[Wed Nov 18 22:21:21 2026] 127.0.0.1:1073 Accepted
+[Wed Nov 18 22:21:21 2026] 127.0.0.1:1073 Closing
+[Wed Nov 18 22:21:51 2026] 127.0.0.1:13456 Accepted
+[Wed Nov 18 22:21:51 2026] 127.0.0.1:13456 Closing
+[Wed Nov 18 22:22:21 2026] 127.0.0.1:56198 Accepted
+[Wed Nov 18 22:22:22 2026] 127.0.0.1:56198 Closing
+[Wed Nov 18 22:22:52 2026] 127.0.0.1:17158 Accepted
+[Wed Nov 18 22:22:52 2026] 127.0.0.1:17158 Closing
+[Wed Nov 18 22:23:22 2026] 127.0.0.1:48150 Accepted
+[Wed Nov 18 22:23:22 2026] 127.0.0.1:48150 Closing
+[Wed Nov 18 22:23:52 2026] 127.0.0.1:28966 Accepted
+[Wed Nov 18 22:23:52 2026] 127.0.0.1:28966 Closing
+[Wed Nov 18 22:24:22 2026] 127.0.0.1:58448 Accepted
+[Wed Nov 18 22:24:23 2026] 127.0.0.1:58448 Closing
+[Wed Nov 18 22:24:53 2026] 127.0.0.1:22103 Accepted
+[Wed Nov 18 22:24:53 2026] 127.0.0.1:22103 Closing
+[Wed Nov 18 22:25:23 2026] 127.0.0.1:26400 Accepted
+[Wed Nov 18 22:25:23 2026] 127.0.0.1:26400 Closing
+[Wed Nov 18 22:25:53 2026] 127.0.0.1:7053 Accepted
+[Wed Nov 18 22:25:53 2026] 127.0.0.1:7053 Closing
+[Wed Nov 18 22:26:23 2026] 127.0.0.1:42975 Accepted
+[Wed Nov 18 22:26:24 2026] 127.0.0.1:42975 Closing
+[Wed Nov 18 22:26:54 2026] 127.0.0.1:42199 Accepted
+[Wed Nov 18 22:26:54 2026] 127.0.0.1:42199 Closing
+[Wed Nov 18 22:27:24 2026] 127.0.0.1:48699 Accepted
+[Wed Nov 18 22:27:24 2026] 127.0.0.1:48699 Closing
+[Wed Nov 18 22:27:54 2026] 127.0.0.1:6604 Accepted
+[Wed Nov 18 22:27:55 2026] 127.0.0.1:6604 Closing
+[Wed Nov 18 22:28:25 2026] 127.0.0.1:9591 Accepted
+[Wed Nov 18 22:28:25 2026] 127.0.0.1:9591 Closing
+[Wed Nov 18 22:28:43 2026] 127.0.0.1:43178 Accepted
+[Wed Nov 18 22:28:43 2026] 127.0.0.1:43178 Closing
+[Wed Nov 18 22:28:43 2026] 127.0.0.1:41514 Accepted
+[Wed Nov 18 22:28:43 2026] 127.0.0.1:41514 [200]: GET /build/assets/app-Dt1P3KgD.css
+[Wed Nov 18 22:28:43 2026] 127.0.0.1:41514 Closing
+[Wed Nov 18 22:28:43 2026] 127.0.0.1:12151 Accepted
+[Wed Nov 18 22:28:43 2026] 127.0.0.1:12151 [200]: GET /build/assets/app-DXkTmbzN.js
+[Wed Nov 18 22:28:43 2026] 127.0.0.1:12151 Closing
+[Wed Nov 18 22:28:43 2026] 127.0.0.1:33755 Accepted
+[Wed Nov 18 22:28:43 2026] 127.0.0.1:33755 [200]: GET /favicon.ico
+[Wed Nov 18 22:28:43 2026] 127.0.0.1:33755 Closing
+[Wed Nov 18 22:28:48 2026] 127.0.0.1:31682 Accepted
+[Wed Nov 18 22:28:48 2026] 127.0.0.1:31682 Closing
+[Wed Nov 18 22:28:48 2026] 127.0.0.1:42787 Accepted
+[Wed Nov 18 22:28:48 2026] 127.0.0.1:42787 [200]: GET /build/assets/app-Dt1P3KgD.css
+[Wed Nov 18 22:28:48 2026] 127.0.0.1:55610 Accepted
+[Wed Nov 18 22:28:48 2026] 127.0.0.1:55610 [200]: GET /build/assets/app-DXkTmbzN.js
+[Wed Nov 18 22:28:48 2026] 127.0.0.1:42787 Closing
+[Wed Nov 18 22:28:48 2026] 127.0.0.1:55610 Closing
+[Wed Nov 18 22:28:48 2026] 127.0.0.1:6994 Accepted
+[Wed Nov 18 22:28:48 2026] 127.0.0.1:6994 [200]: GET /favicon.ico
+[Wed Nov 18 22:28:48 2026] 127.0.0.1:6994 Closing
+[Wed Nov 18 22:28:52 2026] 127.0.0.1:11417 Accepted
+[Wed Nov 18 22:28:52 2026] 127.0.0.1:11417 Closing
+[Wed Nov 18 22:28:52 2026] 127.0.0.1:63828 Accepted
+[Wed Nov 18 22:28:52 2026] 127.0.0.1:63828 [200]: GET /build/assets/app-Dt1P3KgD.css
+[Wed Nov 18 22:28:52 2026] 127.0.0.1:63828 Closing
+[Wed Nov 18 22:28:52 2026] 127.0.0.1:64587 Accepted
+[Wed Nov 18 22:28:52 2026] 127.0.0.1:64587 [200]: GET /build/assets/app-DXkTmbzN.js
+[Wed Nov 18 22:28:52 2026] 127.0.0.1:64587 Closing
+[Wed Nov 18 22:28:52 2026] 127.0.0.1:12050 Accepted
+[Wed Nov 18 22:28:52 2026] 127.0.0.1:12050 [200]: GET /favicon.ico
+[Wed Nov 18 22:28:52 2026] 127.0.0.1:12050 Closing
+[Wed Nov 18 22:28:55 2026] 127.0.0.1:1967 Accepted
+[Wed Nov 18 22:28:55 2026] 127.0.0.1:1967 Closing
